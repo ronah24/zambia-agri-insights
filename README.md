@@ -90,6 +90,6 @@ Charts will be saved to the `/charts` folder.
 
 ## 👤 Author
 
-**Your Name**  
+**Ronah Mbewe**  
 Software Developer | Data Analysis Enthusiast  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
+[LinkedIn](www.linkedin.com/in/ronah-mbewe-4a1b71314) · [GitHub](https://github.com/ronah24)
