@@ -83,8 +83,8 @@ Charts will be saved to the `/charts` folder.
 
 ## 🔗 Related Projects
 
-- **[Tulime](https://github.com/yourusername/tulime)** — A farmer management platform built to help Zambian smallholder farmers track inputs, yields, and market access.
-- **[Hospital Management System](https://github.com/yourusername/hospital-ms)** — School project: a full-stack system for managing patients, staff, and appointments.
+- **[Tulime](https://github.com/ronah24/tulime)** — A farmer management platform built to help Zambian smallholder farmers track inputs, yields, and market access.
+- **[Hospital Management System](https://github.com/ronah24/HealthNet)** — School project: a full-stack system for managing patients, staff, and appointments.
 
 ---
 
